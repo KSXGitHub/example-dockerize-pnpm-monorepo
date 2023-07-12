@@ -1,0 +1,7 @@
+services:
+  foo:
+    build:
+      target: foo
+  bar:
+    build:
+      target: bar
